@@ -68,9 +68,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | Không có |
-| **Hoài** | Dán nguyên văn ba tin tuyển dụng vào AI với vai Generator, yêu cầu lập bảng ASK bốn dòng |
-| **Học** | Lấy tình huống ở trang 4 Khối 1: công ty muốn thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.Hỏi AI hai lần, mỗi lần một vai Sparring khác nhau. |
+| **Hỏi** | Dán nguyên văn ba tin tuyển dụng vào AI với vai Generator, yêu cầu lập bảng ASK bốn dòng và Lấy tình huống ở trang 4 Khối 1: công ty muốn thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.Hỏi AI hai lần, mỗi lần một vai Sparring khác nhau.  |
+| **Hoài** | Không có |
+| **Học** | Không có |
 | **Hành** | Không có |
 
 Công cụ đã dùng: NotebookLM, Gemini
