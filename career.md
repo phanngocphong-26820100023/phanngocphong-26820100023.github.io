@@ -70,9 +70,9 @@ Cụ thể tới mức tháng sau kiểm được.
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Không có |
+| **Hoài** | Dán nguyên văn ba tin tuyển dụng vào AI với vai Generator, yêu cầu lập bảng ASK bốn dòng |
+| **Học** | Lấy tình huống ở trang 4 Khối 1: công ty muốn thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.Hỏi AI hai lần, mỗi lần một vai Sparring khác nhau. |
+| **Hành** | Không có |
 
-Công cụ đã dùng: …
+Công cụ đã dùng: NotebookLM, Gemini
