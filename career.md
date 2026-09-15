@@ -26,8 +26,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
-| 1 | Công Ty Cổ Phần Netcab| Nhân viên kinh doanh tư vấn giải pháp |https://careerviet.vn/vi/tim-viec-lam/nhan-vien-kinh-doanh-tu-van-giai-phap-cntt.35C85B6C.html | 15/09/2026 |
-| 2 | Công ty Cổ phần Thương mại Dịch vụ Xây dựng E&C| Công nhân gia công nhôm kính |https://careerviet.vn/vi/tim-viec-lam/cong-nhan-gia-cong-nhom-kinh.35C87230.html| 15/09/2026 |
+| 1 | CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ XÂY DỰNG E&C| Công nhân Gia công Nhôm Kính |https://careerviet.vn/vi/tim-viec-lam/cong-nhan-gia-cong-nhom-kinh.35C87230.html| 15/09/2026 |
+| 2 | Công Ty Cổ Phần Netcab| Nhân viên kinh doanh tư vấn giải pháp CNTT |https://careerviet.vn/vi/tim-viec-lam/nhan-vien-kinh-doanh-tu-van-giai-phap-cntt.35C85B6C.html| 15/09/2026 |
 | 3 | Công ty TNHH SXTM DV Thang Máy Hưng Thịnh | Nhân viên kỹ thuật cơ điện |https://careerviet.vn/vi/tim-viec-lam/nhan-vien-ky-thuat-co-dien.35C872A6.html | 15/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
