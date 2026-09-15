@@ -31,6 +31,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 | 3 | Công ty TNHH SXTM DV Thang Máy Hưng Thịnh | Nhân viên kỹ thuật cơ điện |https://careerviet.vn/vi/tim-viec-lam/nhan-vien-ky-thuat-co-dien.35C872A6.html | 15/09/2026 |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
+Trang web có ảnh chụp về tin tuyển dụng:
+https://github.com/phanngocphong-26820100023/anh/
 
 ## Hai chỗ AI tự thêm mà tôi bắt được
 
