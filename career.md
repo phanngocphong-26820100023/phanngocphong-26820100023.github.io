@@ -50,10 +50,8 @@ Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Kh
 
 Tình huống: thu thập vị trí người dùng mà không khai báo trong chính sách riêng tư, hạn là ngày mai.
 
-- Phía luật sư công ty lập luận rằng:
-  Hành vi thu thập dữ liệu vị trí người dùng mà không khai báo trong Chính sách Quyền riêng tư (Privacy Policy) là hoàn toàn không thể chấp nhận được và chứa đứng rủi ro pháp lý bắt buộc phải tránh.<br>Dưới đây là các căn cứ pháp lý và hậu quả cụ thể mà Ban Giám đốc và đội ngũ Phát triển sản phẩm cần lưu ý:<br>Vi phạm Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hoặc GDPR nếu có người dùng Châu Âu)<br>Xử phạt hành chính & Hình sự<br>Bị gỡ ứng dụng khỏi App Store / Google Play<br>Thiệt hại nghiêm trọng về Uy tín thương hiệu.
-- Phía người dùng lập luận rằng:
-- Hoàn toàn không thể chấp nhận được vì những lý do sau:<br>1.Xâm phạm nghiêm trọng quyền riêng tư và tính minh bạch<br>2.Tước đoạt quyền tự quyết và sự đồng ý (Consent)<br>3.Sự cố tình vi phạm vì coi nhẹ an toàn dữ liệu
+- Phía luật sư công ty lập luận rằng:<br> Hành vi thu thập dữ liệu vị trí người dùng mà không khai báo trong Chính sách Quyền riêng tư (Privacy Policy) là hoàn toàn không thể chấp nhận được và chứa đứng rủi ro pháp lý bắt buộc phải tránh.<br>Dưới đây là các căn cứ pháp lý và hậu quả cụ thể mà Ban Giám đốc và đội ngũ Phát triển sản phẩm cần lưu ý:<br>Vi phạm Nghị định 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân (hoặc GDPR nếu có người dùng Châu Âu)<br>Xử phạt hành chính & Hình sự<br>Bị gỡ ứng dụng khỏi App Store / Google Play<br>Thiệt hại nghiêm trọng về Uy tín thương hiệu.
+- Phía người dùng lập luận rằng:<br>Hoàn toàn không thể chấp nhận được vì những lý do sau:<br>1.Xâm phạm nghiêm trọng quyền riêng tư và tính minh bạch<br>2.Tước đoạt quyền tự quyết và sự đồng ý (Consent)<br>3.Sự cố tình vi phạm vì coi nhẹ an toàn dữ liệu
 - **Quyết định của tôi**: Cho em thêm thời gian để có thể làm việc  và vì sao: bởi vì nếu làm vậy sẽ dễ dàng mắc phải sai lầm không thể tránh khỏi và làm gây ảnh hưởng đến uy tín, thương hiệu của công ty. Việc cho thêm thời gian giúp cho công ty tránh khỏi những sai sót và có một sản phẩm hoàn chỉnh mặc dù sẽ chậm trễ tiến trình của công ty mà công việc sếp giao
 
 ## Ba việc tôi làm trong học kỳ này
