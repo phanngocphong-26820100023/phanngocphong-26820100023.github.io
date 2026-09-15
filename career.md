@@ -4,15 +4,13 @@ title: Chân dung nghề của tôi
 
 # Chân dung nghề của tôi
 
-> **Bài 1 · Xoá dòng này khi nộp.** Mọi chỗ có dấu … là chỗ em điền.
-> Đọc kỹ đề bài trên LMS trước khi viết. Bảy mục dưới đây là bắt buộc.
+
 
 ## Hướng tôi nhắm
 
-…
+KỸ SƯ AI
 
-Vì sao: …
-
+Vì sao:em muốn xây dựng và tối ưu hóa các hệ thống máy tính có khả năng đọc, hiểu, phân tích, và tạo ra ngôn ngữ của con người một cách chính xác và tự nhiên nhất
 ## Bảng năng lực rút từ ba tin tuyển dụng
 
 Quy tắc: **chỉ ghi những gì có trong văn bản tin tuyển dụng.** Không suy đoán.
