@@ -9,6 +9,12 @@ title: Bản đồ học tập bốn năm
 
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 KỸ SƯ AI
+## Lập bảng ba lỗi
+|Cột|Lỗi của AI
+|---|---|
+|1|PHT...|
+|2|Giáo dục thể chất 1|
+|3|KTL|
 
 ## Tám học kỳ
 
@@ -78,6 +84,7 @@ KỸ SƯ AI
 | 15 | COS360 |Thực hành lập trình devops| 1|
 | 16 | CMP170 | Lập trình trên môi trường Windows|3|
 | 17 |CMP371  |Thực hành lập trình trên môi trường Windows | 1 |
+| 18 |CMP5089 | Thực tập điện toán đám mây|1 |
 
 ### Năm tư
 
@@ -93,36 +100,36 @@ KỸ SƯ AI
 | 8 | COS464 |Đồ án chuyên ngành Khoa học máy tính|3 |
 | 9 |COS570  |Thực tập tốt nghiệp ngành Khoa học máy tính | 3 |
 | 10 |COS4012  | Đồ án tốt nghiệp Khoa học máy tính (hoặc 3 học phần tự chọn chuyên ngành) | 9 |
-| 11 |CMP5089 | Thực tập điện toán đám mây|1 |
+
 
 **Tổng cộng: … tín chỉ.** Phải khớp với số tín chỉ tích luỹ của chương trình.
 Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa ra một môn không có thật.
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ …, vì …
-- Môn … phải học trước môn … vì …
-- Kỳ … tôi để nhẹ vì …
+- Kỳ nặng nhất là kỳ 2, vì có nhiều học phần
+- Môn máy học phải học trước môn thực hành máy học vì học lý thuyết trước thực hành sau 
+- Kỳ 1 tôi để nhẹ vì các môn còn khá cơ bản
 
 ## Hai chỗ AI nói sai
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Giáo dục thể chất 1 (Không tích lũy)
+- Bảng chương trình đào tạo thật ra ghi: Bóng chuyền 1
+- Tôi sửa thành:Bóng chuyền 1
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: PHT...
+- Bảng chương trình đào tạo thật ra ghi: PHT305
+- Tôi sửa thành: PHT#05
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Vai: Bạn là cố vấn học tập. Việc: Lập bảng tám học kỳ cho sinh viên ngành Khoa học máy tính, hệ đại học chính quy, Trường Đại học Công nghệ TP.HCM (HUTECH). Định dạng: mỗi học kỳ một bảng gồm mã học phần, tên học phần, số tín chỉ. Cuối mỗi học kỳ ghi tổng tín chỉ. Cuối cùng ghi tổng tín chỉ toàn khoá. |
+| **Hoài** | Không dùng |
+| **Học** | Không dùng |
+| **Hành** | Không dùng |
