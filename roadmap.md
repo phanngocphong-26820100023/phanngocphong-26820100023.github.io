@@ -10,16 +10,12 @@ title: Bản đồ học tập bốn năm
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 KỸ SƯ AI
 ## Lập bảng ba lỗi
+
 |STT|Lỗi của AI|
 |---|---|
 |1|PHT...|
 |2|Giáo dục thể chất 1|
 |3|KTL|
-
-| Lớp | Tin 1 | Tin 2 | 
-|----------|--------------|--------------| 
-| Kiến thức| SQL, Python | Java | 
-| Kỹ năng | Làm sạch dữ liệu | Kiểm thử |
 
 ## Tám học kỳ
 
