@@ -133,4 +133,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 | **Hoài** | Không dùng |
 | **Học** | Không dùng |
 | **Hành** | Không dùng |
+| Lớp | Tin 1 | Tin 2 | 
+|----------|--------------|--------------| 
+| Kiến thức| SQL, Python | Java | | Kỹ năng | Làm sạch dữ liệu | Kiểm thử |
 
