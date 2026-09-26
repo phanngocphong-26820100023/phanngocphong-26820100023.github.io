@@ -16,6 +16,11 @@ KỸ SƯ AI
 |2|Giáo dục thể chất 1|
 |3|KTL|
 
+| Lớp | Tin 1 | Tin 2 | 
+|----------|--------------|--------------| 
+| Kiến thức| SQL, Python | Java | 
+| Kỹ năng | Làm sạch dữ liệu | Kiểm thử |
+
 ## Tám học kỳ
 
 ### Năm nhất
