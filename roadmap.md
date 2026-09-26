@@ -10,7 +10,7 @@ title: Bản đồ học tập bốn năm
 ## Hướng tôi nhắm, nhắc lại từ Bài 1
 KỸ SƯ AI
 ## Lập bảng ba lỗi
-|Cột|Lỗi của AI
+|Cột|Lỗi của AI|
 |---|---|
 |1|PHT...|
 |2|Giáo dục thể chất 1|
