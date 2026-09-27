@@ -15,7 +15,7 @@ KỸ SƯ AI
 |---|---|
 |1|Thực hành lập trình DevOps|
 |2|Lập trình DevOps|
-|3|Đồ án tốt nghiệp Khoa học máy tính  1 |
+|3|Đồ án tốt nghiệp Khoa học máy tính |
 
 ## Tám học kỳ
 
@@ -106,7 +106,7 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 ## Vì sao tôi xếp như vậy
 
-- Kỳ nặng nhất là kỳ 2, vì có nhiều học phần
+- Kỳ nặng nhất là kỳ 7, vì có nhiều tín chỉ
 - Môn máy học phải học trước môn thực hành máy học vì học lý thuyết trước thực hành sau 
 - Kỳ 1 tôi để nhẹ vì các môn còn khá cơ bản
 
@@ -114,15 +114,15 @@ Tổng lệch nghĩa là hoặc tôi chép thiếu môn, hoặc AI vừa bịa r
 
 **Chỗ thứ nhất**
 
-- AI nói: Giáo dục thể chất 1 (Không tích lũy)
-- Bảng chương trình đào tạo thật ra ghi: Bóng chuyền 1
-- Tôi sửa thành:Bóng chuyền 1
+- AI nói:Thực hành lập trình DevOps
+- Bảng chương trình đào tạo thật ra ghi: Thực hành lập trình devops
+- Tôi sửa thành:Thực hành lập trình devops
 
 **Chỗ thứ hai**
 
-- AI nói: PHT...
-- Bảng chương trình đào tạo thật ra ghi: PHT305
-- Tôi sửa thành: PHT#05
+- AI nói: Lập trình DevOps
+- Bảng chương trình đào tạo thật ra ghi: Lập trình devops
+- Tôi sửa thành: Lập trình devops
 
 ## Tôi đã làm việc với AI thế nào
 
