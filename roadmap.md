@@ -15,7 +15,7 @@ KỸ SƯ AI
 |---|---|
 |1|Thực hành lập trình DevOps|
 |2|Lập trình DevOps|
-|3|KTL|
+|3|Đồ án tốt nghiệp Khoa học máy tính  1 |
 
 ## Tám học kỳ
 
