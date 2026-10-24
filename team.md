@@ -19,7 +19,7 @@ Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứn
 
 **Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
 
-**Vấn đề thật (sau khi bóc):** việc làm quen với github mất bao mới mới biết những thứ cơ bản
+**Vấn đề thật (sau khi bóc):** việc làm quen với github mất bao mới mới biết những thứ cơ bản?
 
 *Người viết phần này: Phan Ngọc Phong*
 
