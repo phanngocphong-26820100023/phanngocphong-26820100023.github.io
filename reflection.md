@@ -54,11 +54,11 @@ Nguồn:
 https://careerviet.vn/vi/tim-viec-lam/cong-nhan-gia-cong-nhom-kinh.35C87230.html
 https://careerviet.vn/vi/tim-viec-lam/nhan-vien-kinh-doanh-tu-van-giai-phap-cntt.35C85B6C.html
 file:///C:/Users/ADMIN/Downloads/884731ctdt_khoa-hoc-may-tinh_2025.pdf
-Mục 2:
+<br>Mục 2:
 Tuần 1 em không biết đăng ảnh lên trên github  nhưng khi em lên youtube thì nó đề xuất cho em cách đưa ảnh lên github thì em biết được-đây là ghi nhận thứ 17 của em
-Mục 3:
+<br>Mục 3:
 Em thực sự chưa thể sử dụng thành thạo github nhất là việc tạo tài khoản-2 lần đầu tiên phải nhờ đến mạng thì em mới làm được.2 ngày sau em sẽ đọc kỹ hướng dẫn và tập tạo tài khoản từ đầu để thử
-Mục 4:
+<br>Mục 4:
 Nếu em được làm lại từ đầu thì em sẽ không để khi thầy nói hạn LMS thì mới chịu làm bài bởi vì em cảm thấy làm bài khá là gian nan và phải hỏi người nọ người kia nên em ngay sau khi em học xong buổi nào mà có bài tập được giao thì em sẽ có cố gắng hoàn thành và đưa ra một sản phẩm chất lượng nhất để thầy có thể nhìn nhận một con người khác của em
 
 
